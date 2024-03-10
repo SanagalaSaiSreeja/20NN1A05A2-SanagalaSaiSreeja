@@ -1,4 +1,5 @@
 **Initialize your project: Create a new directory for your project and initialize it with npm.**
+
 mkdir express-mongodb-api
 cd express-mongodb-api
 npm init -y
