@@ -36,7 +36,7 @@ Node.js: A JavaScript runtime used for server-side development.
 
 The output section outlines the expected behavior of the API endpoints. It describes the actions to perform for each HTTP method (POST, GET, PATCH, DELETE) and provides example requests and responses.
 
-**Indexes: **
+**Indexes:**
 
 Created a unique index named for s_id so that only the unique s_id todo list can be added.If we add any document of ahaving same s_id then it will show error message ssying we cant't add duplicate values to the s_id index,
 
